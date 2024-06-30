@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{12AB196F-F15A-405B-8057-454200E0AE3C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console/Program.cs">
+    <Files>
+      <File FileName="Console/Program.cs" Line="7" Column="26" />
+      <File FileName="DataAccess/Abstract/ICarDal.cs" />
+      <File FileName="DataAccess/Concrete/InMemory/InMemoryCarDal.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReCapProject" expanded="True">
+            <Node name="Business" expanded="True" />
+            <Node name="Console" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

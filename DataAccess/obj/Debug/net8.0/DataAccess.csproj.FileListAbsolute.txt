@@ -1,0 +1,16 @@
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/Entities.dll
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/Entities.pdb
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.Up2Date
+/Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.sourcelink.json
