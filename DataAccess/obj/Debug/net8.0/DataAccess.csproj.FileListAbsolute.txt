@@ -14,3 +14,5 @@
 /Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
 /Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.csproj.Up2Date
 /Users/muhammed/Projects/ReCapProject/DataAccess/obj/Debug/net8.0/DataAccess.sourcelink.json
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/Core.dll
+/Users/muhammed/Projects/ReCapProject/DataAccess/bin/Debug/net8.0/Core.pdb

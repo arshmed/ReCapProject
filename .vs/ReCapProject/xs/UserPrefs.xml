@@ -1,25 +1,39 @@
 ﻿<Properties StartupConfiguration="{12AB196F-F15A-405B-8057-454200E0AE3C}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Console PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Console/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs">
     <Files>
-      <File FileName="Console/Program.cs" Line="7" Column="26" />
-      <File FileName="DataAccess/Abstract/ICarDal.cs" />
-      <File FileName="DataAccess/Concrete/InMemory/InMemoryCarDal.cs" />
+      <File FileName="Business/Abstract/IColorService.cs" Line="10" Column="28" />
+      <File FileName="Business/Abstract/ICarService.cs" Line="1" Column="1" />
+      <File FileName="Business/Abstract/IBrandService.cs" Line="14" Column="34" />
+      <File FileName="Business/Concrete/ColorManager.cs" Line="40" Column="37" />
+      <File FileName="Business/Concrete/CarManager.cs" Line="1" Column="1" />
+      <File FileName="Business/Concrete/BrandManager.cs" Line="1" Column="1" />
+      <File FileName="Console/Program.cs" Line="79" Column="36" />
+      <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ReCapProject" expanded="True">
-            <Node name="Business" expanded="True" />
-            <Node name="Console" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Core" expanded="True">
+              <Node name="DataAccess" expanded="True">
+                <Node name="EntityFramework" expanded="True">
+                  <Node name="EfEntityRepositoryBase.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
             <Node name="DataAccess" expanded="True">
-              <Node name="Concrete" expanded="True" />
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="EntityFramework" expanded="True" />
+              </Node>
             </Node>
             <Node name="Entities" expanded="True">
-              <Node name="Abstract" expanded="True" />
               <Node name="Concrete" expanded="True" />
             </Node>
           </Node>
@@ -27,7 +41,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Console PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

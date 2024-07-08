@@ -16,3 +16,5 @@
 /Users/muhammed/Projects/ReCapProject/Business/obj/Debug/net8.0/Business.pdb
 /Users/muhammed/Projects/ReCapProject/Business/obj/Debug/net8.0/ref/Business.dll
 /Users/muhammed/Projects/ReCapProject/Business/obj/Debug/net8.0/Business.sourcelink.json
+/Users/muhammed/Projects/ReCapProject/Business/bin/Debug/net8.0/Core.dll
+/Users/muhammed/Projects/ReCapProject/Business/bin/Debug/net8.0/Core.pdb

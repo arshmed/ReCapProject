@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq.Expressions;
-using Entities.Abstract;
+using Core.Entities;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
 	public interface IEntityRepository<T> where T:class, IEntity, new()
 	{
